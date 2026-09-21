@@ -1,0 +1,1 @@
+document.querySelector('.menu')?.addEventListener('click',()=>document.querySelector('nav')?.classList.toggle('open')); document.querySelectorAll('[data-year]').forEach((x,i)=>{x.style.animationDelay=(i*.08)+'s'});
