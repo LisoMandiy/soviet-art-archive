@@ -29,3 +29,4 @@ figcaption{font-size:.7rem;padding-top:6px;letter-spacing:.05em}
 .sourcebox{padding:22px;border:1px solid var(--fg);background:#efe9dc;margin-top:26px;font-family:'Courier New',monospace;font-size:.92rem}
 footer{padding:44px 5vw;display:grid;grid-template-columns:1fr 1fr 2fr;gap:34px;border-top:1px solid var(--fg);font-size:.88rem}
 @media(max-width:800px){nav{display:none}nav.open{display:flex;position:absolute;top:56px;left:0;right:0;background:var(--bg);padding:18px;flex-direction:column;border-bottom:1px solid var(--fg)}.menu{display:block}.hero{grid-template-columns:1fr}.cards,.facts,.media-grid,footer{grid-template-columns:1fr}.media-grid figure{min-height:230px}}
+body{font-family:'IBM Plex Serif',Georgia,serif}h1,h2,h3,.brand,.cta,nav a,.eyebrow{font-family:'IBM Plex Serif',Georgia,serif}.brand,.eyebrow,figcaption,nav a,.card .num,.timeline time,.sourcebox,.menu{font-family:'IBM Plex Mono',monospace}h1,h2,h3{font-family:'IBM Plex Serif',Georgia,serif}
